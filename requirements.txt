@@ -1,0 +1,13 @@
+fastapi
+
+uvicorn
+
+langchain
+
+openai
+
+python-dotenv
+
+youtube-transcript-api
+
+tiktoken
